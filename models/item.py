@@ -1,5 +1,5 @@
 from models.db import db
-
+#test
 class ItemModel(db.Model):
     __tablename__ = 'items'
 
