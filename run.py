@@ -1,5 +1,5 @@
 from app import app
-from models.db import
+from models.db import db
 
 db.init_app(app)
 #test
